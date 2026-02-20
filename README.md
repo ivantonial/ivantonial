@@ -3,7 +3,7 @@ README do perfil GitHub (repo: ivantonial/ivantonial)
 Dica: mantenha curto, escaneável e com links rápidos.
 -->
 
-<h1 align="center">Ivan Ramalho Tonial</h1>
+<h1 align="center">Ivan R. T.</h1>
 
 <p align="center">
   <!-- Ajuste sua “tagline” conforme seu foco (iOS / Web / etc.) -->
