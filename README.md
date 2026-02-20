@@ -29,7 +29,7 @@ Dica: mantenha curto, escaneável e com links rápidos.
 <!--**CI/CD:** GitHub Actions, Fastlane -->
 **Outros:** Git, REST APIs
 
-> Dica: use “pins” no seu perfil para destacar os projetos abaixo (não depender de “Popular repositories”).
+<!-- > Dica: use “pins” no seu perfil para destacar os projetos abaixo (não depender de “Popular repositories”). -->
 
 ## Projetos em destaque
 | Projeto | O que é | Stack / highlights |
