@@ -25,8 +25,8 @@ Dica: mantenha curto, escaneável e com links rápidos.
 
 ## Tech stack
 **Mobile:** Swift, SwiftUI, UIKit, Xcode  
-**Qualidade:** SwiftLint, Unit Tests, UI Tests  
-<!--**CI/CD:** GitHub Actions, Fastlane -->
+**Qualidade:** SwiftLint, Unit Tests, UI Tests<!--  
+**CI/CD:** GitHub Actions, Fastlane -->
 **Outros:** Git, REST APIs
 
 <!-- > Dica: use “pins” no seu perfil para destacar os projetos abaixo (não depender de “Popular repositories”). -->
